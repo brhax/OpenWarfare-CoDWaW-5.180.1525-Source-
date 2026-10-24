@@ -1,0 +1,2 @@
+"OW_GREED"
+"OW_GREED_CAPS"
